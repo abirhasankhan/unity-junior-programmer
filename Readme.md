@@ -40,7 +40,7 @@ Each folder contains a project, challenge, prototype, or exercise completed as p
 ### Pathway Progress
 
 * [x] Started Pathway — June 2026
-* [ ] Mission 1: Programming Essentials
+* [x] Mission 1: Player Control 
 * [ ] Mission 2: Basic Gameplay
 * [ ] Mission 3: Sound and Effects
 * [ ] Mission 4: Gameplay Mechanics
